@@ -1,0 +1,29 @@
+.checkout {
+    padding: 2rem;
+    text-align: center;
+}
+
+.checkout ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.checkout li {
+    margin: 0.5rem 0;
+}
+
+.checkout button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+.checkout button:hover {
+    background-color: #45a049;
+}
